@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://videepsoni.github.io/sitemap.xml
